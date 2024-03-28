@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MissJBrown
+- 👋 Hi, I’m @MissJBrown but you can call me Jeny
 - 👀 I’m interested in broadening my skills in IT as an aspiring software developer/engineer
 - 🌱 I’m currently learning python and java this first semester at North-West University
 - 💞️ I’m looking to collaborate on projects that will introduce me to more coding spaces whereby I might even meet people of my calibre and hopefully work on more projects together
